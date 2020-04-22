@@ -23,7 +23,7 @@ public class GuessNumber {
         secret = (int) r3;
 
         //option2
-        //secret = (int) (Math.random()*10) +1;
+        //secret = (int) (Math.random()*100) +1;
     }
 
     //declare setter method for guess instance variable
